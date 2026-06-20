@@ -56,4 +56,5 @@ you go rather than just generating finished code.
 ## Status
 
 ✅ Phase 1 complete — static draw working
+
 🚧 Phase 2 in progress — panning
